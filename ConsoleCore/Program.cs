@@ -15,6 +15,8 @@ namespace ConsoleCore
 			Console.ReadKey();
 			// code created in github editor
 			Console.ReadKey(true);
+			// github editor by zastav
+		Console.Readkey()
         }
     }
 }
