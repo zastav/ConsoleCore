@@ -10,6 +10,8 @@ namespace ConsoleCore
 			Console.ReadKey();
 			///added on VS locally
 			Console.ReadKey();
+			// new chanegs commited
+			Console.ReadKey();
         }
     }
 }
