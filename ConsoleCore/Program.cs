@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 
 namespace ConsoleCore
 {
@@ -12,6 +13,8 @@ namespace ConsoleCore
 			Console.ReadKey();
 			// new chanegs commited
 			Console.ReadKey();
+			// code created in github editor
+			Console.ReadKey(true);
         }
     }
 }
